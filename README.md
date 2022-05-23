@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnnadam9700
-- 🌱 I’m currently learning JavaScript/HTML/CSS
+- 👋 Hi, I’m @nnnemadam
+- 🌱 I’m currently learning Python
 - 📫 nemethadam361@gmail.com
 
